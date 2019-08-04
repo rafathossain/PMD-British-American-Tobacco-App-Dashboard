@@ -1,1 +1,1 @@
-PMD API
+Laravel Starter Template
